@@ -4,27 +4,6 @@ The task is to read a list of integers from an input file and generate an output
 
 - Python installed on your machine
 
-### Running the Program
-
-1. **Clone the Repository:**
-
-   ```sh
-   git clone https://github.com/cysron-b/dsa_UniqueInt.git
-   cd /dsa_UniqueInt/hw01/
-   ```
-
-2. **Prepare Input Files:**
-
-   Place your input text files in the `sample_inputs` directory.
-
-3. **Ensure Output Directory Exists:**
-
-   Make sure the `sample_results` directory exists:
-   
-   ```sh
-   mkdir -p sample_results
-   ```
-
 ### Input and Output
 
 - **Input Files:**
